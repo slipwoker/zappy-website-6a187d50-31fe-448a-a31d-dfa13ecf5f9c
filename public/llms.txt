@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover fashion-forward plus size clothing designed for busy corporate Black women. Shop eloquii-quality pieces that celebrate your curves and power your success.
+
+### About
+https://example.com/about
+Lady Elise Boutique champions full-figure Black women in corporate spaces with torrid-quality styles. Learn how we&#39;re redefining business fashion for curves.
+
+### Style Guide
+https://example.com/style-guide
+Your ultimate style guide for commanding corporate spaces with confidence. Get expert tips on plus size fashion that rivals k&amp;g fashion store sophistication.
+
+### Contact
+https://example.com/contact
+Ready to transform your professional wardrobe? Reach out to Lady Elise Boutique for personalized fashion retail service tailored to your corporate lifestyle.
+
+### Products
+https://example.com/products
+Our Products - Lady Elise Boutique
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Lady Elise Boutique
+
+### Category
+https://example.com/category/:slug
+Products - Lady Elise Boutique
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
